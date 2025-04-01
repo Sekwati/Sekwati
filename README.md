@@ -26,6 +26,5 @@ I am currently working on exciting projects in back-end development and cloud co
 - **Scalable microservices architectures**.
 
 ## 📫 Connect With Me:
-- **GitHub**: [SekwatiThulare](https://github.com/Sekwati)  
 - **LinkedIn**: [Sekwati Thulare](https://www.linkedin.com/in/sekwati-thulare-579840170/)  
--->
+
